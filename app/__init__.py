@@ -1,0 +1,1 @@
+"""Honeypot Scam Detection API"""
