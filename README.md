@@ -1,7 +1,7 @@
 # Honeypot API — Scam Detection & Intelligence Extraction
 
 > by Team Yantraksh — Chethan Vasthaw Tippani & Mithuna Somireddy
-> Built for the GUVI Hackathon 2025
+> Built for the GUVI Hackathon 2026
 
 ## What this does
 
